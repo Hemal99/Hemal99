@@ -1,7 +1,7 @@
 Hi 👋 My name is Hemal Perera
 =============================
 
-Software Engineer | DevOps Enthusiastic
+Software Engineer | DevOps & AI Enthusiastic
 ---------------------------------------
 
 Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Java, Full-Stack Development, Python (Programming Language), JavaScript, and React.js. Strong engineering professional with a Bachelor of Applied Science - BASc focused in Computer Science from University of Sri Jayewardenepura.
